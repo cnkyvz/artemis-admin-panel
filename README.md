@@ -29,6 +29,18 @@ Enterprise admin panel built with React and TypeScript for comprehensive system 
 - Inventory and asset tracking
 - Document management system
 
+## 🌐 Live Production System
+
+**[Access Admin Panel](https://admin.artemisaritim.com)**
+
+Production admin interface for system management:
+- Real-time business analytics
+- User and employee management
+- System administration tools
+- Live operational data
+
+*Active production environment*
+
 ## Tech Stack
 
 ### Frontend
