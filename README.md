@@ -42,6 +42,20 @@ Production admin interface for system management:
 
 *Active production environment*
 
+## Screenshots
+
+### Admin Dashboard
+<div align="center">
+  <img src="screenshots/web/dashboard.png" width="400" alt="Main Dashboard">
+  <img src="screenshots/web/dashboard2.png" width="400" alt="Analytics Dashboard">
+</div>
+
+### Management Features
+<div align="center">
+  <img src="screenshots/web/daily-task.png" width="400" alt="Task Management">
+  <img src="screenshots/web/vehicle-map.png" width="400" alt="Vehicle Map Interface">
+</div>
+
 ## Tech Stack
 
 ### Frontend
